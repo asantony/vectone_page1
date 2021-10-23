@@ -1,0 +1,32 @@
+.vectone-header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 112px;
+    position: fixed;
+    background: white;
+    top: 0px;
+    z-index: 1000;
+}
+.vectone-header > div {
+    display: inline;
+}
+.vectone-logo{
+    margin-left: 60px;
+}
+.vectone-phone{
+    margin-right: 60px;
+}
+
+.mobile-vectone-header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 112px;
+    position: fixed;
+    background: white;
+    top: 0px;
+}
+.mobile-vectone-header .logo_icon{
+    width: 25%;
+}
